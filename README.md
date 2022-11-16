@@ -1,12 +1,13 @@
 # Speedrun-Retimer
 A program made to help speedrun moderators retime runs that have multiple splits.
 
-##################################################################################
-
 ## Auto Updates!
  - whenever I publish a new version, an update button will appear.
 
 ## Features:
+ - **Save your progress!**
+    closing the window does not delete your progress.
+
  - **Add Infinitely many rows of splits!**
     when they go off the window, a scrollbar will appear.
     
@@ -26,11 +27,6 @@ A program made to help speedrun moderators retime runs that have multiple splits
      - 1:10:42.222
      - -5 😳
 
- - **Save your progress!**
-    closing the window does not delete your progress.
- 
-##################################################################################
-
 ## Menu Bar
 
 ### File
@@ -44,10 +40,3 @@ A program made to help speedrun moderators retime runs that have multiple splits
 ### Websites
 - Easy link to SR.C. Mod Hub!
 - default website that I will fix later
-
-##################################################################################
-
-
-
-
-
