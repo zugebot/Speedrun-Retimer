@@ -1,6 +1,8 @@
 # Jerrin's Speedrun Retimer
 A program made to help speedrun moderators retime runs that have multiple splits.
 
+![yes](https://media.discordapp.net/attachments/902396118976061461/1042508248537890926/image.png)
+
 ## Auto Updates!
 - whenever I publish a new version, an update button will appear.
 
