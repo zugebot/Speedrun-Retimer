@@ -7,22 +7,22 @@ A program made to help speedrun moderators retime runs that have multiple splits
 - whenever I publish a new version, an update button will appear.
 
 ## Features:
-- **Save your progress!**
+- **Save your progress!**  
 closing the window does not delete your progress.
 
-- **Add Infinitely many rows of splits!**
+- **Add Infinitely many rows of splits!**  
 when they go off the window, a scrollbar will appear.
     
-- **Custom FPS**
+- **Custom FPS**  
 defaulted on 30fps. Allows 0 to 999.
     
-- **Copy Mod Message**
+- **Copy Mod Message**  
 allows for easy mod message when verifying runs.
     
-- **+/- Splits**
+- **+/- Splits**  
 click the +/-# button to toggle between plus and minus mode.
 
-- **Easy timing!**
+- **Easy timing!**  
 the textboxes support numbers in these syntaxes: 
      - 0
      - 0.123
