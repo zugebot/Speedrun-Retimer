@@ -24,6 +24,7 @@ click the +/-# button to toggle between plus and minus mode.
 
 - **Easy timing!**  
 the textboxes support numbers in these syntaxes:
+     - youtube debug info
      - 0
      - 0.123
      - 1:10:42.222
